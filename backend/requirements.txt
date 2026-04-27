@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+motor
+python-jose[cryptography]
+bcrypt>=4.0.0
+pydantic-settings
+python-multipart
+email-validator
+google-genai
